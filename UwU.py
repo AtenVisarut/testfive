@@ -1,1 +1,1 @@
-print('hello tenten')
+print('hello tensama')
